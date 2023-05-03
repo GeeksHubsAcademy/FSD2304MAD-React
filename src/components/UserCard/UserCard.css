@@ -1,0 +1,8 @@
+.userCard{
+    width: 15vw;
+    height: 15vh;
+    background-color: coral;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
